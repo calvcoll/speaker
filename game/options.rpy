@@ -41,7 +41,7 @@ init -1 python hide:
 
     theme.threeD(
         ## Theme: 3D
-        ## Color scheme: Dramatic Flesh
+        ## Color scheme: Lis Custom
 
         ## The color of an idle widget face.
         widget = "#BF7C51",
