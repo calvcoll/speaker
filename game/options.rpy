@@ -44,17 +44,17 @@ init -1 python hide:
         ## Color scheme: Lis Custom
 
         ## The color of an idle widget face.
-        widget = "#BF7C51",
+        widget = "#3B3B3B",
 
         ## The color of a focused widget face.
-        widget_hover = "#dda570",
+        widget_hover = "#111111",
 
         ## The color of the text in a widget.
         widget_text = "#E5DFDF",
 
         ## The color of the text in a selected widget. (For
         ## example, the current value of a preference.)
-        widget_selected = "#ffffff",
+        widget_selected = "#EEB422",
 
         ## The color of a disabled widget face.
         disabled = "#ab6038",
@@ -66,7 +66,7 @@ init -1 python hide:
         label = "#ffffff",
 
         ## The color of a frame containing widgets.
-        frame = "#49271b",
+        frame = "#35586C",
 
         ## The background of the main menu. This can be a color
         ## beginning with '#', or an image filename. The latter
