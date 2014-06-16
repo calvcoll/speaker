@@ -1,0 +1,10 @@
+/game/options.rpyc
+/game/bytecode.rpyb
+/game/options.rpy.bak
+/game/screens.rpy.bak
+/game/screens.rpyc
+/game/script.rpyc
+game/saves/
+tmp/
+log.txt
+traceback.txt
